@@ -4,3 +4,25 @@
 .b-image {
   height: 200px;
 }
+.begl {
+  font-style: italic;
+  font-weight: bold;
+}
+.section1 {
+  border: solid 1px black;
+}
+section {
+  padding-left: 20px;
+  padding-right: 20px;
+  max-width: 50%;
+  margin-left: 30px;
+}
+.gbodr {
+  border: solid 1px green;
+}
+a {
+  color: black;
+}
+li {
+  margin-top: 10px;
+}
